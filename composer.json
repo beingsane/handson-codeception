@@ -1,0 +1,11 @@
+{
+	"require": {
+		"codeception/codeception": "*",
+		"slim/slim": "~2.0"
+	},
+	"autoload": {
+		"classmap": [
+			"src"
+		]
+	}
+}
